@@ -16,6 +16,8 @@
 	 - Now you can switch between WASD and DFJK, or custom keys!
  - **Polymod support**
      - it explains all
+ - **GameJolt support**
+     - A sort of special menus about GameJolt stuff for your mod.
  - **Video support**
 	 - An experimental media support of MP4 files. (ONLY WINDOWS AND HTML5)
  - **Note offset** (in beta)
